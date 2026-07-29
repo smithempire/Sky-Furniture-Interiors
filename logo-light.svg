@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" width="560" height="160" role="img" aria-labelledby="logoTitleLight">
+  <title id="logoTitleLight">Sky Furnitures &amp; Interior</title>
+  <defs>
+    <linearGradient id="goldGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3D77A" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#A9832A" />
+    </linearGradient>
+    <linearGradient id="woodGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A9744F" />
+      <stop offset="100%" stop-color="#6E4429" />
+    </linearGradient>
+  </defs>
+  
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="140" height="140" rx="28" fill="rgba(255,255,255,0.08)" stroke="rgba(212,175,55,0.4)" stroke-width="1" />
+    <path d="M20 62 L70 26 L120 62" fill="none" stroke="url(#goldGrad2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M46 62 V96 Q46 108 58 108 H82 Q94 108 94 96 V62" fill="none" stroke="#F5F5F5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="40" y="86" width="60" height="12" rx="6" fill="url(#woodGrad2)" />
+    <path d="M44 92 H96 M44 89 H90 M44 95 H88" stroke="#0F172A" stroke-width="0.8" opacity="0.35" />
+    <path d="M46 108 L40 128 M94 108 L100 128" stroke="#F5F5F5" stroke-width="5" stroke-linecap="round" />
+    <rect x="30" y="128" width="80" height="4" rx="2" fill="url(#goldGrad2)" />
+  </g>
+  
+  <g transform="translate(172,52)" font-family="'Montserrat', sans-serif">
+    <text x="0" y="0" font-size="42" font-weight="700" letter-spacing="4" fill="#FFFFFF">SKY</text>
+    <text x="0" y="30" font-size="15" font-weight="500" letter-spacing="3" fill="#E7C878">FURNITURES &amp; INTERIOR</text>
+    <rect x="2" y="42" width="220" height="2" fill="url(#goldGrad2)" />
+  </g>
+</svg>
